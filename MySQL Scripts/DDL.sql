@@ -1,3 +1,5 @@
+#这一节结合另外一个PyMySQL python程序进行的
+
 #选择数据库(查询最好在mysql里面进行)
 use ddl;
 
