@@ -1,3 +1,5 @@
+#总结一下,这里有 insert into,update set,delete from。
+
 use ddl;
 #创建dml数据库
 create database dml;
